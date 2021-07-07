@@ -1,0 +1,8 @@
+{
+    "slots": [
+        {
+            "name": "page-top",
+            "file": "example.vue"
+        }
+    ]
+}

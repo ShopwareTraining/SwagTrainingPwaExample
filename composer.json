@@ -1,0 +1,17 @@
+{
+  "name": "swag-training/pwa-example",
+  "description": "Providing files to Shopware PWA",
+  "type": "shopware-platform-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "SwagTraining\\PwaExample\\": "src/"
+    }
+  },
+  "extra": {
+    "shopware-plugin-class": "SwagTraining\\PwaExample\\SwagTrainingPwaExample",
+    "label": {
+      "en-GB": "Providing files to Shopware PWA"
+    }
+  }
+}
